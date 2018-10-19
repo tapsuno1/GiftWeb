@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "propane-bearing-218410",
+  "private_key_id": "688d73da17d77dc9e63325d56c049ac1c84a2de7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFf6XiAs7Pt1ZB\nw/RBbGRSfQiW3XK6iYK778v8IBoAMZMLNh0rsi/7XGpfZzpt2Kw/WjPXtPnGhSk/\nU4DxGtV2kmbUbP7s8i/gujMMMfiqcK5YL5WF4M2V0GHKjEbUBQlkuTfT45Wg1N/a\nhw2wHglXoaqtOh/d3mXclV9gfKChZhVPNfUZ349OqwXFkAQ6szLGxC1YT0TbJZjh\ntoZa+4GSDapP0+Q4zIKEknSduIEaRS6rSGXqFuUGZ9kzbQYhHp4Dm8M6cs/Pmp/d\n23kET3G6HmdO5iAVG7fZjPF+wqb6+yJqGulNLHg4jgBLYtpa5W5lyxAGmNIOxLv6\ny1bsytI/AgMBAAECggEABpOZQYJtwpWh+1n8GzrxyEa+RM/Q+eHfBu/ARNVeKEgo\n/lmUn8I06NOLU0FLvSFW8wZyQtTq8Fpkz5AHSNVnlaWLDmMmxgXL5FmESPwCV3fz\nG5/8rv2Xuve6bz/mko7XC5HuCFHux0aaFwZ3mo1q1Y6I8XBwY+H7qwcVAFCGGiRj\nY+eBC4wFBQgNWwxjtz9irTo+rWNxEb9aSqPs8eTwY0LLDUKKC+Vii0wo6Z6ce/Sk\nQvuYewiDK3C0IDTgv5OZTdk7Rz4dRJOBOQVfxlVWhyVSGnmNu317Kz4G8InvXJ82\nY5d4gAFrtKXllJqvb3NRJhXTLys8uEjKvnIWUpnhcQKBgQD1rOMWw6PovwGh6Ea5\n9/Aavcbufv+ci9M+2ZMh/4W/Arac0dQOE0FMns6xdPdIxFaBw0oebfZzSBfkh5/f\nJR97ztuvwK2TCscKKp6g25LQR2cjDzVRivDYoJb/iycurs2L67lJXmVqJx624FPO\n2PGA/SALEGyaefBwWTpaQzq65wKBgQDNzHLmHLTg0SYeaFzKXKy8iwMfOCiKffW2\n+k9QH6XSfXMDUci0vd+KbxYMEiuuq27xdO7lngdlMn+2AFbV1XDHFdYJVO3189qH\nhc86Br58FpINLaBwGoGt1IYrrYMpAweAWIwUIHI83W/OsmN2FVtcGSNN4yisATLh\nKv17laLa6QKBgEIT1SR7TGu+bBb7HYLJcBgRMR9WozOc3B2Mcal0S6nbdfhp62o5\nvZd5I0jRl+1Heaj/OMFEfEP3gQ2jeNmQ543qTmZQIZ9qB6zxV6cWR7+jZNcmMQYU\no8DwOIzVBZ3lwD1BEp3sOMS7buRrI79/1D0IWAUBzuQhpgzhwvMiH/rDAoGAQ1aW\ncf0KolVNJ732PrC8RKUnzFtPyKEWeVzF/u2cEJfDvl5QUfOe5Wkbya9YY7rsfk1I\nrhFbUh2H9EGAKE/CqyHV+w+zHTtBUf7So6X5RhkMiQtY59WEgSB9FmWb+RtopPJU\nQ3Gqb4f1QajVKpoqXqRLDP07Haz2vP6YGowH0aECgYA+kyxYRdhyrqAsRRRiqey8\nz6iqzhEm7XjgTKrqwZfDHuUQTQ8oX/lNJ9kRb/5G3TX6EcCIEtvd2BxjPjOx/Phh\nZGrYRsu3JWZjqs9NH34d6sFyw0yK4QmXJJuRmobFUbwqus4u2W1YOR3b0mLi+Z/e\nG5amVFKTmNmAzU6jq/hckQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveapi@propane-bearing-218410.iam.gserviceaccount.com",
+  "client_id": "106568404370680900951",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveapi%40propane-bearing-218410.iam.gserviceaccount.com"
+}
